@@ -12,8 +12,8 @@ builder.Services.AddSingleton<IEmailService>(es =>
     new EmailService(
         smtpHost: "smtp.gmail.com",
         smtpPort: 587,
-        smtpUser: "seid13463@gmail.com", 
-        smtpPass: "uxwunvyysqjhjgvn"
+        smtpUser: "aminibrahimov52@gmail.com", 
+        smtpPass: "pmkt bkfz ntog qxrh"
     ));
 
 // Application Insights isn't enabled by default. See https://aka.ms/AAt8mw4.
